@@ -1,3 +1,7 @@
+Weather Finder is the application of science and technology to predict the conditions of the atmosphere for a given location and time. 
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
